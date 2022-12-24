@@ -1,0 +1,7 @@
+{
+  "name": "chat notes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

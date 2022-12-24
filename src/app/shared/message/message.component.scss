@@ -1,0 +1,28 @@
+.info-box {
+    display: flex;
+}
+
+.icon-favourite {
+    padding-left: 4px;
+}
+
+.z-0 {
+    z-index: 0;
+}
+
+.message-content {
+    white-space: pre-line;
+    max-width: 90%;
+    font-size: 1.5rem;
+}
+
+.message-controls {
+    right: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+.ephemeral {
+    --background: lightgray;
+    --color: black;
+}
