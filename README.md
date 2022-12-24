@@ -1,4 +1,4 @@
-# Chaotes
+# Notch
 
 A lot of people apparently like using whatsapp, slack messengers for storing their notes.
 
